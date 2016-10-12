@@ -1,0 +1,7 @@
+c:\users\zack\documents\visual studio 2015\Projects\GangActivity\GangActivity\obj\Debug\GangActivity.csprojResolveAssemblyReference.cache
+D:\Program files\Steam\SteamApps\common\Grand Theft Auto V\plugins\GangActivity.dll
+D:\Program files\Steam\SteamApps\common\Grand Theft Auto V\plugins\GangActivity.pdb
+c:\users\zack\documents\visual studio 2015\Projects\GangActivity\GangActivity\obj\Debug\GangActivity.dll
+c:\users\zack\documents\visual studio 2015\Projects\GangActivity\GangActivity\obj\Debug\GangActivity.pdb
+D:\Program files\Steam\SteamApps\common\Grand Theft Auto V\plugins\LSPDFR\GangActivity.dll
+D:\Program files\Steam\SteamApps\common\Grand Theft Auto V\plugins\LSPDFR\GangActivity.pdb
